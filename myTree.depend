@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1617438364 source:e:\codeblocks\projects\mytree\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<time.h>
+	<fstream>
+	"myTree.h"
+
+1617420756 e:\\codeblocks\\projects\\mytree\\mytree.h
+	<iostream>
+	<vector>
+	<string.h>
+	<time.h>
+	<fstream>
+
+1617439116 source:e:\codeblocks\projects\mytree\mytree.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<math.h>
+	<time.h>
+	<fstream>
+	"myTree.h"
+
+1617438675 e:\codeblocks\projects\mytree\mytree.h
+	<iostream>
+	<vector>
+	<string.h>
+	<math.h>
+	<time.h>
+	<fstream>
+
